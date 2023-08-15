@@ -17,7 +17,7 @@ the atmosphere. In a compact design, this detector can be placed on a
 ceiling of your kitchen or anywhere where there is a chance of gas leakage 
 thus avoiding any dangers of gas leakage.
 
-*You can find The ASM and Arduino Code in 'Codes.docx'
+*You can find rhe Assembly and Arduino Code in 'Codes.docx'
 
 *Read 'COAL Project Report.pdf' For More Details.
 
