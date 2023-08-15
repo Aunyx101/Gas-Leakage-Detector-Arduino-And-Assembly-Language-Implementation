@@ -21,5 +21,5 @@ thus avoiding any dangers of gas leakage.
 
 *Read 'COAL Project Report.pdf' For More Details.
 
-*You Can Request For Live Demonstration Of The Project Here:
+*You Can Request For Pre-Recorded Demonstration Of The Project Here:
 https://drive.google.com/file/d/1Eu5ZqeXxQ-Q7R-5UWgdLjYKT13p5bWaw/view?usp=drive_link
